@@ -1,6 +1,6 @@
 ## HELPDESK
 
-Helpdesk is a next app to create, update and delete tickets such as jira.
+Helpdesk is a next app to create, update and delete tickets i.e a simple version of jira.
 
 > [!IMPORTANT]
 > This project uses Nextjs 14 but mostly features works on Nextjs 13
